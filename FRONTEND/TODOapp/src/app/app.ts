@@ -15,7 +15,7 @@ export class App {
  apiURL : string;
 
  constructor(private http: HttpClient) {
- this.apiURL = 'hhttps://apitarefasdavi249568diogo252826.onrender.com/api';
+ this.apiURL = 'https://apitarefasdavi249568diogo252826.onrender.com';
  this.READ_tarefas();
  }
 
